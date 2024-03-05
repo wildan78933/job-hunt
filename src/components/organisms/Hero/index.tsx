@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React, { FC } from "react";
-import FormSearch from "./FormSearch";
+import FormSearch from "../FormSearch";
 
 interface HeroProps {}
 
